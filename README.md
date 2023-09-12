@@ -1,2 +1,14 @@
-# SolarSystem-master
-SolarSystem 
+# SolarSystem
+## 文件指南
+若想直接体验SolarSystem，打开项目文件中的“windows_release_build”，直接运行exe即可
+
+## 操作指南
+
+- -或+可以控制行星自转、公转速度  
+- WASD控制伸缩、放大  
+- IJLK上下左右移动星图  
+- Q或E可以控制左移或右移  
+- 1~9可以查看指定的行星 （具体对应哪个不用我多了八）  
+- [ 和 ]可以放大或缩小行星  
+- O能将轨迹隐藏，真实模拟星系  
+- H能关闭小提示窗口  
